@@ -23,7 +23,7 @@ Siga estas etapas para configurar o projeto em sua máquina local:
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/LeonardoPNunes/task-project.git
+   git clone https://github.com/Leonardodesenvolvedorfront/task-project.git
    
    cd task-project
 
